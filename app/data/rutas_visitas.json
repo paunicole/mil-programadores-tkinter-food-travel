@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ruta de restaurantes para conocer",
+        "destinos": [1, 2, 3]
+    },
+    {
+        "id": 2,
+        "nombre": "Dia con amigas",
+        "destinos": [4, 5]
+    }
+]

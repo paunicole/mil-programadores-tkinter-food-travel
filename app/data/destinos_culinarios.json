@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "nombre": "El Buen Gusto",
+        "tipo_cocina": "Salteña",
+        "ingredientes": ["arroz","tomate"],
+        "precio_minimo": 1500,
+        "precio_maximo": 12000,
+        "popularidad": 3.5,
+        "disponibilidad": true,
+        "id_ubicacion": 1,
+        "imagen": "image_1.png"   
+    },
+    {
+        "id":2,
+        "nombre": "La Monumental",
+        "tipo_cocina": "Bonaerense",
+        "ingredientes": ["ajo","aji"],
+        "precio_minimo": 2500,
+        "precio_maximo": 15000,
+        "popularidad": 4.3,
+        "disponibilidad": false,
+        "id_ubicacion": 2,
+        "imagen": "image_2.png"
+    },
+    {
+        "id":3,
+        "nombre": "La 12",
+        "tipo_cocina": "Boliviana",
+        "ingredientes": ["aji","papa"],
+        "precio_minimo": 700,
+        "precio_maximo": 9000,
+        "popularidad": 3.9,
+        "disponibilidad": true,
+        "id_ubicacion": 3,
+        "imagen": "image_3.png"
+    },
+    {
+        "id":4,
+        "nombre": "Donatello",
+        "tipo_cocina": "Italiana",
+        "ingredientes": ["harina","tomate","huevo"],
+        "precio_minimo": 1500,
+        "precio_maximo": 10000,
+        "popularidad": 4.5,
+        "disponibilidad": false,
+        "id_ubicacion": 4,
+        "imagen": "image_4.png"
+    },
+    {
+        "id":5,
+        "nombre": "Lo del Negro Copa",
+        "tipo_cocina": "Venezolana",
+        "ingredientes": ["harina","sal"],
+        "precio_minimo": 1300,
+        "precio_maximo": 12000,
+        "popularidad": 4.8,
+        "disponibilidad": true,
+        "id_ubicacion": 5,
+        "imagen": "image_5.png"
+    },
+    {
+        "id":6,
+        "nombre": "Pizza Mara",
+        "tipo_cocina": "Salteña",
+        "ingredientes": ["pepino","lechuga"],
+        "precio_minimo": 3000,
+        "precio_maximo": 17000,
+        "popularidad": 4.6,
+        "disponibilidad": true,
+        "id_ubicacion": 6,
+        "imagen": "image_6.png"
+    }
+]

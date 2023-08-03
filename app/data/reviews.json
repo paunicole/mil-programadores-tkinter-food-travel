@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "id_destino": 3,
+        "id_usuario": 2,
+        "calificacion": 4,
+        "comentario": "Las mejores empanadas de Salta sin duda. El ambiente es sencillo y muy hogare\u00f1o, el lugar se presta a tener un almuerzo muy agradable",
+        "animo": "Positivo"
+    },
+    {
+        "id": 2,
+        "id_destino": 1,
+        "id_usuario": 1,
+        "calificacion": 3,
+        "comentario": "No ofrece mucha variedad de comidas, pero las arepas estaban ricas. No est\u00e1 mal para un almuerzo mientras se visita la ciudad.",
+        "animo": "Positivo"
+    },
+    {
+        "id": 3,
+        "id_destino": 1,
+        "id_usuario": 1,
+        "calificacion": 3,
+        "comentario": "Excelente atenci\u00f3n son muy amables y estan pendiente de lo que necesitas, la comida como los tragos son de calidad y muy bien presentados.",
+        "animo": "Positivo"
+    },
+    {
+        "id": 4,
+        "id_destino": 2,
+        "id_usuario": 1,
+        "calificacion": 2,
+        "comentario": "La ambientaci\u00f3n muy linda pero la comida deja mucho que desear. No lo recomiendo y no volver\u00eda.",
+        "animo": "Negativo"
+    },
+    {
+        "id": 5,
+        "id_destino": 3,
+        "id_usuario": 3,
+        "calificacion": 1,
+        "comentario": "P\u00e9sima atenci\u00f3n y comida.",
+        "animo": "Negativo"
+    },
+    {
+        "id": 6,
+        "id_destino": 1,
+        "id_usuario": 1,
+        "calificacion": 5,
+        "comentario": "Muy cuidadosos con la opci\u00f3n sin tacc. La atenci\u00f3n excelente y los precios acordes al lugar.",
+        "animo": "Positivo"
+    },
+    {
+        "id": 7,
+        "id_destino": 4,
+        "id_usuario": 2,
+        "calificacion": 3,
+        "comentario": "Excelente comida, excelente servicio!",
+        "animo": "Positivo"
+    },
+    {
+        "id": 8,
+        "id_destino": 5,
+        "id_usuario": 2,
+        "calificacion": 5,
+        "comentario": "Un catalogo de vinos impecable",
+        "animo": "Positivo"
+    }
+]
